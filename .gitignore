@@ -1,0 +1,5 @@
+# 環境変数ファイル
+.env
+
+# Node.jsの依存関係フォルダ
+node_modules/
